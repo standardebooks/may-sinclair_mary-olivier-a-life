@@ -73,8 +73,8 @@ footer{
 }
 
 /* The two engravings. */
-#chapter-5 blockquote p,
-#chapter-21 blockquote:last-of-type p{
+[id~="chapter-5-3"] blockquote p,
+[id~="chapter-21-10"] blockquote p{
 	text-align: center;
 	text-indent: 0;
 }
