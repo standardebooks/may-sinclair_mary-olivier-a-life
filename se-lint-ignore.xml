@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-14.xhtml">
+		<ignore>
+			<code> t-003</code>
+			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-19.xhtml">
+		<ignore>
+			<code> t-003</code>
+			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-20.xhtml">
+		<ignore>
+			<code> t-003</code>
+			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-21.xhtml">
+		<ignore>
+			<code> t-003</code>
+			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-30.xhtml">
+		<ignore>
+			<code> t-005</code>
+			<reason>“Prince of Peace” is an example of protest quotes, not dialog.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
