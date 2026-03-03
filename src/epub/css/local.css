@@ -77,3 +77,11 @@ footer{
 	text-indent: 0;
 }
 /* End engravings */
+
+/* Non-English blockquotes */
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+blockquote[xml|lang]{
+	font-style: italic;
+}
+/* End non-English blockquotes */
