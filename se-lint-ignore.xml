@@ -2,31 +2,39 @@
 <se-lint-ignore>
 	<file path="chapter-14.xhtml">
 		<ignore>
-			<code> t-003</code>
+			<code>t-003</code>
 			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-19.xhtml">
 		<ignore>
-			<code> t-003</code>
+			<code>t-003</code>
 			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-20.xhtml">
 		<ignore>
-			<code> t-003</code>
+			<code>t-003</code>
 			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-21.xhtml">
 		<ignore>
-			<code> t-003</code>
+			<code>t-003</code>
 			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
+			<code>y-013</code>
+			<reason>Not allowed to put the period w/in the book title.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-27.xhtml">
+		<ignore>
+			<code>y-013</code>
+			<reason>Not allowed to put the period w/in the music title.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-30.xhtml">
 		<ignore>
-			<code> t-005</code>
+			<code>t-005</code>
 			<reason>“Prince of Peace” is an example of protest quotes, not dialog.</reason>
 		</ignore>
 	</file>
