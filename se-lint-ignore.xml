@@ -19,14 +19,6 @@
 		<ignore code="t-003">
 			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
 		</ignore>
-		<ignore code="y-013">
-			<reason>Not allowed to put the period w/in the book title.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-27.xhtml">
-		<ignore code="y-013">
-			<reason>Not allowed to put the period w/in the music title.</reason>
-		</ignore>
 	</file>
 	<file path="chapter-30.xhtml">
 		<ignore code="t-005">
