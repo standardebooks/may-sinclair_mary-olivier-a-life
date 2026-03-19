@@ -20,9 +20,4 @@
 			<reason>Missing close quote is appropriate because the same speaker continues in the next paragraph.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-30.xhtml">
-		<ignore code="t-005">
-			<reason>“Prince of Peace” is an example of protest quotes, not dialog.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
