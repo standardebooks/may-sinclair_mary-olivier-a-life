@@ -6,7 +6,7 @@
 header{
 	font-variant: small-caps; /* top | right | bottom | left */
 	margin: 3em 1em 1.5em 1em;
-	page-break-after: avoid;
+	break-after: avoid;
 }
 
 [epub|type~="z3998:subchapter"] > header + *{
